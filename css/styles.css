@@ -1,0 +1,34 @@
+body {
+  color: rgb(3, 173, 252);
+  font-family: cursive;
+}
+div {
+      min-height: 100vh;
+      width: 100vw;
+}
+h1,h2 {
+        text-align: center;
+}
+h1 {
+      font-size: 4em;
+}
+img {
+        display: flex;
+        padding: 10px;
+      margin: 0 auto;
+        border-radius: 150px;
+}
+p {
+        width: 40%;
+        margin: 10vh 10vw;
+        font-size: 2em;
+}
+a {
+        color: rgb(0, 0, 0);
+}
+li#lower {
+          margin-top: 7%
+}
+li#lowest {
+          margin-bottom: 14%
+}
